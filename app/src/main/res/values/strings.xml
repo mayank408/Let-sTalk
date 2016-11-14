@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Let\'sCall</string>
+    <string name="login">User Name</string>
+    <string name="password">Password</string>
+    <string name="loginbutton">Login</string>
+
+</resources>
